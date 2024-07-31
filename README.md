@@ -30,3 +30,4 @@ python shopping.py shopping.csv
 ## <a id='demo'> Demo </a>
 
 A successul run of this python script should see command line output as such:
+![Successs](https://github.com/user-attachments/assets/eaba0351-71e7-426a-8da3-68ec04e26f9a)
